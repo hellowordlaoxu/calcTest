@@ -18,4 +18,7 @@ func main() {
 	fmt.Println("calc.Div called!")
 	res = calc.Div(100, 20)
 	fmt.Println("Div(100 ,20) :", res)
+	fmt.Println("calc.Multi called!")
+	res = calc.Multi(30, 20)
+	fmt.Println("Multi(10 ,20) :", res)
 }
