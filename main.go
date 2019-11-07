@@ -13,7 +13,6 @@ func main() {
 	fmt.Println("calc.Sub called!")
 	res = calc.Sub(30, 20)
 	fmt.Println("Sub(10 ,20) :", res)
-	//fmt
 
 	fmt.Println("calc.Div called!")
 	res = calc.Div(100, 20)
